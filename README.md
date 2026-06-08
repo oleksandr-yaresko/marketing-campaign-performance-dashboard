@@ -91,7 +91,7 @@ Insights:
 - Channel performance comparison
 - Monthly conversion trend
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive Overview](Images/executive_overview.png)
 
 ---
 
@@ -106,7 +106,7 @@ Insights:
 - Highest converting customer segments
 - Strongest performing locations
 
-![Audience Insights](Images/Audience_Insights.png)
+![Audience Insights](Images/audience_insights.png)
 
 ---
 
@@ -124,7 +124,7 @@ Business Insights:
 - Social Media campaigns generated the highest CTR.
 - Performance remained relatively stable across campaign formats.
 
-![Campaign Type Analysis](Images/Campaign_Type_Analysis.png)
+![Campaign Type Analysis](Images/campaign_type_analysis.png)
 
 ---
 
