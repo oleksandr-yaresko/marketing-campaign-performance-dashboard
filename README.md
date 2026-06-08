@@ -146,4 +146,4 @@ Oleksandr Yaresko
 Aspiring Data Analyst based in Germany.
 
 LinkedIn:
-[Your LinkedIn URL]
+www.linkedin.com/in/oleksandr-yaresko-493a45394
